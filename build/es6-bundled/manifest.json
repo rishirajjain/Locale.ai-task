@@ -1,0 +1,7 @@
+{
+  "name": "db",
+  "short_name": "db",
+  "description": "DataBag Online Cloud Storage ",
+  "start_url": "/",
+  "display": "standalone"
+}

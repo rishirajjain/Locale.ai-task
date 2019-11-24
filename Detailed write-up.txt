@@ -1,0 +1,9 @@
+I compared two popular online cloud storage platforms Google Drive and Microsoft One Drive (screenshots are included)
+
+I found that Google Drive is very user-friendly compared to One Drive, So I decided to make something similar to Google Drive.
+I believe simplicity and abstraction is key to a great interface. Google Drive is very clean and has a minimalistic appearance with clear and precise buttons and tools that are easily understandable to a new customer(This is something One Drive fails to deliver on) I found several menus that make no sense to me as a newbie. For example the Flow dropdown menu (the UI fails to explain what Flow is and as an end-user, I feel frustrated even intimidated by the complex terminology used in the design) Moreover I feel that the overall UI of One Drive feels a bit cluttered. Now, this can mean one of two things, the customers that Microsoft is targetting has prior knowledge of its services and the apps it provides(I'm not one of them). I think this is a silly move by Microsoft if this is the case because it leaves out new customers altogether.
+
+I have to be honest, I'm a big-time material design and minimalistic fan, and moving to Microsoft's Fluent Design System doesn't feel that attractive to me. Although I'm open to change and developing in that as well. Maybe I can come up with something that's the best of both worlds! I prefer learning by doing this way and experimenting with new styles and combinations.
+
+The goal of Cloud storage is to be as simple to use as possible or any app for that matter. Important files that are stored on the storage need to be shown in a way that grabs the viewers attention i.e. it should occupy more screen space.
+ 
